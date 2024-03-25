@@ -1,5 +1,7 @@
 # Airbnb_Listings_Analysis
 
+![Airbnb](https://github.com/Safeedha-7/Airbnb_Listings_Analysis/assets/147964860/daf28d9a-cf99-44b1-a1a9-7f94ee551f7c)
+
 ## Project Overview
 
 Dive into the world of Airbnb listings with a dynamic dashboard meticulously crafted using Excel for data transformation and Tableau for visualization. The project offers a comprehensive analysis of Airbnb listings, leveraging data from diverse sources to provide valuable insights into rental trends. Through meticulous data processing in Excel, datasets encompassing factors influencing Airbnb listings are curated, including pricing, location, amenities, and guest reviews. Harnessing the power of Tableau, these datasets are transformed into intuitive and interactive visualizations, allowing users to explore trends, patterns, and correlations effortlessly.
